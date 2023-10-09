@@ -20,7 +20,7 @@ It is just a mathematical way of analysing how long an algorithm with a given nu
 <li>O(log n) — Logarithmic time: given an input of size n, the number of steps it takes to accomplish the task are decreased by some factor with each step. The number of steps it takes to accomplish a task are decreased by some factor with each step.</li>
 <li>O(n) — Linear Time: Given an input of size n, the number of of steps required is directly related (1 to 1)</li>
 <li>O(n²) — Quadratic Time: Given an input of size n, the number of steps it takes to accomplish a task is square of n.</li>
-<li>O(C^n) — Exponential Time: Given an input of size n, the number of steps it takes to accomplish a task is a constant to the n power (pretty large number).</li>
+<li>O(C^n) — Exponential Time: Given an iput of size n, the number of steps it takes to accomplish a task is a constant to the n power (pretty large number).</li>
 </ul>
 
 <h3>The idea behind big O notation</h3>
